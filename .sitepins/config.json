@@ -1,0 +1,8 @@
+{
+  "content": "lib/cms-content",
+  "media": "public/assets",
+  "public": "public",
+  "configs": [],
+  "custom-commit": false,
+  "arrangement": []
+}
