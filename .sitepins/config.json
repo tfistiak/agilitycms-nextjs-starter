@@ -1,5 +1,5 @@
 {
-  "content": "lib/cms-content",
+  "content": "docs",
   "media": "public/assets",
   "public": "public",
   "configs": [],
